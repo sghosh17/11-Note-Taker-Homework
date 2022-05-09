@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "title": "This is my first note!",
+      "text": "This application allows you to add and delete notes. You can add notes by clicking the plus icon at the top and then click the save icon once you have entered the note title and text. This is my first note.",
+      "id": "0"
+    },
+    {
+      "title": "Deleting Notes",
+      "text": "You can delete notes by clicking the delete icon next to the note which you would like to delete.",
+      "id": "1"
+    }
+  ]
+}

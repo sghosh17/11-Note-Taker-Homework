@@ -1,0 +1,11 @@
+{
+  "name": "note-taker",
+  "version": "1.0",
+  "description": "Note Taker Express Application",
+  "main": "server.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
