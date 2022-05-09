@@ -25,7 +25,7 @@ The packages required to run are:
 
 ## Usage
 
-To start the process, go to the deployed site [here](https://sampreeti-11-note-taker.herokuapp.com/)
+To start the process, go to the deployed site [here](https://sghosh17-11-note-taker.herokuapp.com/)
 
 ![Note Taker Landing Page](public/assets/images/note-taker-landing-page.PNG)
 
@@ -44,7 +44,7 @@ Sampreeti Das
 
 ## Test
 
-To run the test, please go to the deployed site [here](https://sampreeti-11-note-taker.herokuapp.com/)
+To run the test, please go to the deployed site [here](https://sghosh17-11-note-taker.herokuapp.com/)
 
 ## Questions
 
